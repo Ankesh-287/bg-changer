@@ -15,7 +15,7 @@ function App() {
             <Button btncolor="purple" setColor={setColor}/>
             <Button btncolor="yellow" setColor={setColor}/>
             <Button btncolor="orange" setColor={setColor}/>
-            <Button btncolor="lightblue" setColor={setColor}/>
+            <Button btncolor="lightblue" setColor={setColorto conduct and apertkal}/>
           </div>
         </div>
       </div>
